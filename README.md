@@ -6,7 +6,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-  I'm a passionate Full Stack Developer from [Your Country]. I love building web applications and exploring new technologies.
+  I'm a passionate Full Stack Developer from Bangladesh. I love building web applications and exploring new technologies.
 </p>
 
 <h2 align="center">Skills</h2>
