@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">A passionate Programmed from Bangladesh</h3>
+<h3 align="center">A passionate Programmer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Computer Vision and Deep Learning for Medical Data Analysis**
 
