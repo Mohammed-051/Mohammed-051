@@ -42,6 +42,7 @@ I am a creative developer from Bangladesh with a strong foundation in multiple p
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-4A154B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white)
 
 ### Design Software
 
@@ -55,6 +56,7 @@ I am a creative developer from Bangladesh with a strong foundation in multiple p
 - Building interactive and visually engaging **software applications**
 - Exploring **game development** and creative coding with Unity
 - Designing intuitive **user experiences** that merge functionality with aesthetics
+- Running and maintaining **ComfyUI** workflows for AI-powered creative projects
 
 ---
 
